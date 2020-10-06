@@ -38,9 +38,12 @@ Membership in **Administrators**, or equivalent, is the minimum required to perf
 
     ![Use criteria to filter records](../../media/View-DNS-Resource-Records-for-a-DNS-Zone/ipam_DNSzones_01d.jpg)
 
+## Verify resource record propagation
+
+To check the propagation of these resource records in public DNS servers, use one of the online tools below.
+
+1.  [NsLookup.io](https://www.nslookup.io)
+
 ## See Also
 [DNS Zone Management](DNS-Zone-Management.md)
 [Manage IPAM](Manage-IPAM.md)
-
-
-
